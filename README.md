@@ -22,8 +22,8 @@ This project is a React application that interacts with the NY Times Most Popula
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ny-times-articles.git
-   cd ny-times-articles
+   git clone https://github.com/aboubakarch/breaking-news.git
+   cd breaking-news
    ```
 
 2. Install the dependencies:
